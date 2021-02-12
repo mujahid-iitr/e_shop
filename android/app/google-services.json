@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094598564400",
+    "project_id": "eshop-28109",
+    "storage_bucket": "eshop-28109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094598564400:android:3c0e01af5f52ef87c0ebf5",
+        "android_client_info": {
+          "package_name": "com.muhammadali.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094598564400-8lhd0g60os6r0v4ot5il6759a4u24lh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyn6uR7dVpNqFwcXD2MJSS0zqqTjPAgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094598564400-8lhd0g60os6r0v4ot5il6759a4u24lh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
